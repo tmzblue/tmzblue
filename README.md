@@ -4,7 +4,7 @@ Above all the other roles I currently have to take on, I consider myself a softw
 
 Having worked for over 15 years in the industry taught me that our craft goes beyond a hot new framework or a fancy language. At the end of the day, it's all about people and their interactions.
 
-I'm currently working at my own company, helping other companies - big and small - to thrive in this digital world. It's been a game changer for me, a unique school to learn on.
+I'm currently working at my own [company](https://www.instagram.com/cblx.br/), helping other companies - big and small - to thrive in this digital world. It's been a game changer for me, a unique school to learn on.
 
 My interests in the field are diverse, from simple console programs that do magic stuff to A.I. and game development. I'm skilled and highly experienced with cloud applications and information systems in general, having focused great part of my carrer in web development. Nonetheless, I've also ventured in several mobile and frontend projects.
 
