@@ -16,11 +16,6 @@ Keep on coding :space_invader:!
 
 ## Stuff I like to fiddle with
 
-![notepad++](https://img.shields.io/badge/-npp-90E59A?logo=notepad%2B%2B&logoColor=black&style=for-the-badge)
-![vstudio](https://img.shields.io/badge/-visual%20studio-5C2D91?logo=visual%20studio&logoColor=white&style=for-the-badge)&nbsp;
-![vscode](https://img.shields.io/badge/-vscode-007ACC?logo=visual%20studio%20code&logoColor=white&style=for-the-badge)&nbsp;
-![unity](https://img.shields.io/badge/-unity-000000?logo=unity&logoColor=white&style=for-the-badge)&nbsp;
-<br><br>
 ![dotnet](https://img.shields.io/badge/-5%2B-512BD4?logo=.NET&logoColor=white&style=for-the-badge)&nbsp;
 ![csharp](https://img.shields.io/badge/-csharp-239120?logo=c%20sharp&logoColor=white&style=for-the-badge)&nbsp;
 ![dart](https://img.shields.io/badge/-dart-0175C2?logo=Dart&logoColor=white&style=for-the-badge)&nbsp;
@@ -29,12 +24,8 @@ Keep on coding :space_invader:!
 ![python](https://img.shields.io/badge/-python-3776AB?logo=python&logoColor=white&style=for-the-badge)&nbsp;
 ![typescript](https://img.shields.io/badge/-typescript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
 <br><br>
-![firebase](https://img.shields.io/badge/-firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge)&nbsp;
-![mssql](https://img.shields.io/badge/-microsoft%20sql-CC2927?logo=microsoft%20sql%20server&logoColor=white&style=for-the-badge)&nbsp;
-![mongodb](https://img.shields.io/badge/-mongodb-47A248?logo=MongoDB&logoColor=white&style=for-the-badge)&nbsp;
-![mysqlb](https://img.shields.io/badge/-mysql-4479A1?logo=MySQL&logoColor=white&style=for-the-badge)&nbsp;
-<br><br>
 ![angular](https://img.shields.io/badge/-angular-DD0031?logo=angular&logoColor=white&style=for-the-badge)&nbsp;
+![bootstrap](https://img.shields.io/badge/-bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge)&nbsp;
 ![css3](https://img.shields.io/badge/-css3-1572B6?logo=css3&logoColor=white&style=for-the-badge)&nbsp;
 ![sass](https://img.shields.io/badge/-sass-CC6699?logo=sass&logoColor=white&style=for-the-badge)&nbsp;
 ![tailwind](https://img.shields.io/badge/-tailwind-38B2AC?logo=tailwind%20css&logoColor=white&style=for-the-badge)&nbsp;
@@ -46,8 +37,15 @@ Keep on coding :space_invader:!
 ![gcloud](https://img.shields.io/badge/-google%20cloud-4285F4?logo=google%20cloud&logoColor=white&style=for-the-badge)&nbsp;
 ![heroku](https://img.shields.io/badge/-heroku-430098?logo=heroku&logoColor=white&style=for-the-badge)&nbsp;
 <br><br>
-![azure pipelines](https://img.shields.io/badge/-azure%20pipelines-2560E0?logo=Azure%20Pipelines&logoColor=white&style=for-the-badge)&nbsp;
-![github actions](https://img.shields.io/badge/-github%20actions-2088FF?logo=github%20actions&logoColor=white&style=for-the-badge)&nbsp;
+![firebase](https://img.shields.io/badge/-firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge)&nbsp;
+![mssql](https://img.shields.io/badge/-microsoft%20sql-CC2927?logo=microsoft%20sql%20server&logoColor=white&style=for-the-badge)&nbsp;
+![mongodb](https://img.shields.io/badge/-mongodb-47A248?logo=MongoDB&logoColor=white&style=for-the-badge)&nbsp;
+![mysqlb](https://img.shields.io/badge/-mysql-4479A1?logo=MySQL&logoColor=white&style=for-the-badge)&nbsp;
+<br><br>
+![notepad++](https://img.shields.io/badge/-npp-90E59A?logo=notepad%2B%2B&logoColor=black&style=for-the-badge)
+![vstudio](https://img.shields.io/badge/-visual%20studio-5C2D91?logo=visual%20studio&logoColor=white&style=for-the-badge)&nbsp;
+![vscode](https://img.shields.io/badge/-vscode-007ACC?logo=visual%20studio%20code&logoColor=white&style=for-the-badge)&nbsp;
+![unity](https://img.shields.io/badge/-unity-000000?logo=unity&logoColor=white&style=for-the-badge)&nbsp;
 <br><br>
 ![android](https://img.shields.io/badge/-android-3DDC84?logo=android&logoColor=white&style=for-the-badge)&nbsp;
 ![linux](https://img.shields.io/badge/-linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)&nbsp;
@@ -58,11 +56,20 @@ Keep on coding :space_invader:!
 ![powershell](https://img.shields.io/badge/-powershell-5391FE?logo=windows%20terminal&logoColor=white&style=for-the-badge)&nbsp;
 ![winterm](https://img.shields.io/badge/-windows%20terminal-4d4d4d?logo=windows%20terminal&logoColor=white&style=for-the-badge)&nbsp;
 <br><br>
+![azure pipelines](https://img.shields.io/badge/-azure%20pipelines-2560E0?logo=Azure%20Pipelines&logoColor=white&style=for-the-badge)&nbsp;
+![github actions](https://img.shields.io/badge/-github%20actions-2088FF?logo=github%20actions&logoColor=white&style=for-the-badge)&nbsp;
+<br><br>
 ![flutter](https://img.shields.io/badge/-flutter-02569B?logo=Flutter&logoColor=white&style=for-the-badge)&nbsp;
 ![ionic](https://img.shields.io/badge/-ionic-3880FF?logo=Ionic&logoColor=white&style=for-the-badge)&nbsp;
 <img src="https://www.pwa-shields.com/1.0.0/series/love/rainbow/purple.svg" height="28px">
 <br><br>
+![aspnet](https://img.shields.io/badge/-ASP.NET-512BD4?style=for-the-badge)&nbsp;
+![nodejs](https://img.shields.io/badge/-node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)&nbsp;
+![npm](https://img.shields.io/badge/-npm-CB3837?logo=npm&logoColor=white&style=for-the-badge)&nbsp;
+<br><br>
 ![arduino](https://img.shields.io/badge/-arduino-00979D?logo=arduino&logoColor=white&style=for-the-badge)&nbsp;
+<br><br>
+![gitscm](https://img.shields.io/badge/-git_scm-F05032?logo=Git&logoColor=white&style=for-the-badge)&nbsp;
 <br><br>
 
 ## Social media
