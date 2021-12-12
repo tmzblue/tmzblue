@@ -16,7 +16,7 @@ Keep on coding :space_invader:!
 
 ## Stuff I like to fiddle with
 
-![dotnet](https://img.shields.io/badge/-5%2B-512BD4?logo=.NET&logoColor=white&style=for-the-badge)&nbsp;
+![dotnet](https://img.shields.io/badge/-6%2B-512BD4?logo=.NET&logoColor=white&style=for-the-badge)&nbsp;
 ![csharp](https://img.shields.io/badge/-csharp-239120?logo=c%20sharp&logoColor=white&style=for-the-badge)&nbsp;
 ![dart](https://img.shields.io/badge/-dart-0175C2?logo=Dart&logoColor=white&style=for-the-badge)&nbsp;
 ![html5](https://img.shields.io/badge/-html5-E34F26?logo=html5&logoColor=white&style=for-the-badge)&nbsp;
